@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Akanshya, a BTech student graduating in 2027.  <br>💡 Interested in Machine Learning, Computer Networks, Full-Stack Development, and Operating Systems.  <br>🌱 Learning by building—always curious about how things work and how to improve them.<br>🚀 Always open to learning and collaborating!<br>
+👋 Hi! I'm Akanshya, a BTech Computer Science and Comunication Engineering student at Manipal Institute of Technology graduating in 2027.  <br>💡 Interested in Machine Learning, Computer Networks, Full-Stack Development, and Operating Systems.  <br>🌱 Learning by building—always curious about how things work and how to improve them.<br>🚀 Always open to learning and collaborating!<br>
 
 
 ## 🌐 Socials:
